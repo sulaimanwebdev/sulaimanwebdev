@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @sulaimanwebdev
-- 👀 I’m interested in Vue JS
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on freelance projects
-- 📫 How to reach me sulaimanperson@gmail.com
+
